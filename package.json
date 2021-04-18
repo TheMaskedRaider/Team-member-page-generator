@@ -1,0 +1,22 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "TeamGenerator package",
+  "main": "application.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Stephen Kadesky",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
